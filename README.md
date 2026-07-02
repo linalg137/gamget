@@ -4,6 +4,8 @@ A simple PCB gadget/nametag in the shape of two playing cards.
 ## inspiration!
 I am one of the many people fully obsessed with card games and playing cards. So, it's only logical that I decided I'd create a simple gadget (hence the name 'gamget'-- gamble + gadget! get it?) in the shape of playing cards.   
 
+When you put a battery into the battery cell of the PCB and push the button in the front, the LEDs on the joker's hats will light up, and turn off when you let go of the push switch. 
+
 Here are a few screenshots of the gamget:  
 <img width="637" height="495" alt="image" src="https://github.com/user-attachments/assets/d5e795dd-ef64-4105-8116-6a77bd8f4186" />  
 The schematic of the PCB.
